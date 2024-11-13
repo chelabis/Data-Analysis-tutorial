@@ -6,4 +6,6 @@
 ### Part 4: Model Development
 ### Part 5: Model Evaluation
 
-### Extra: Auto85 practice, House Sales practice
+### Exercises
+#### Auto85 practice
+#### House Sales practice, dataset: kc_house_data
